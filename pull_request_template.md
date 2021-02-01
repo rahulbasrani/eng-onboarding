@@ -1,31 +1,19 @@
 ## Description
-_A few sentences describing the overall goals of the pull request's commits._
 
-## Screenshot
+Onboarding Exercise 1 for day 1, print fibanocci sequence upto n terms.
+
+## Database schema changes
+
 _For UI changes, include a screenshot of the changes._
 
 ## Tests
-_Describe the automated and manual tests you performed to verify it works._
+
+None
 
 ### Automated test cases added
-- _Description of automated test 1_
-- _Description of automated test 2_
-- _Description of automated test 3_
+
+- _None_
 
 ### Manual test cases run
-_For each manual test case, list the steps to test or reproduce the PR._
-- _Description of manual test 1_
-- _Description of manual test 2_
-- _Description of manual test 3_
 
-### Browsers tested
-- [ ] Chrome
-- [ ] Safari
-- [ ] Internet Explorer
-- [ ] Firefox
-
-## Platform dependencies
-Does this depend on or impact
-- [ ] iOS
-- [ ] Android
-- [ ] API
+- _None_
