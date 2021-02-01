@@ -1,8 +1,7 @@
-var a, b, result; a = 0;
+let a, b, result; a = 0;
 b = 1;
 result = b;
-var b = "jason";
-for (var i = 1; i < 100; i++) {
+for (var i = 1; i < 10; i++) {
 	console.log(result);
 	result = a + b;
 	a = b;
